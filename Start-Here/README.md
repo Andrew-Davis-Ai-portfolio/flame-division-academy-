@@ -1,57 +1,43 @@
-# 🚀 Start Here — Your First Mission
+🚀🔥 Start Here — Your First Command
 
-Welcome to Flame Division Academy 🔥  
-Let’s get you moving fast and confident.
+Welcome to Flame Division Academy.
+You are here because you don’t just use AI — you command it.
 
----
+Let’s launch your mission with clarity and speed.
 
-## ✅ Step 1 — Pick Your Path
+⸻
 
-Choose where you want to begin:
+✅ Step 1 — Choose Your Command Path
 
-🔹 Want to build tools?  
-Start here ➜ [CAIIP Program](../Programs/CAIIP.md)
+Pick the track that aligns with how you will control AI in the real world:
 
-🔹 Want to lead and make AI decisions?  
-Start here ➜ [CAIO Program](../Programs/CAIO.md)
+🔹 Want to build and deploy AI systems?
 
-You can switch anytime.
+➡️ Start here: CAIIP Program
+/Programs/01_CAIIP/README.md
 
----
+🔹 Want to lead AI strategy and decisions?
 
-## ✅ Step 2 — Your First Assignment
+➡️ Start here: CAIO Program
+/Programs/02_CAIO/README.md
 
-Upload your first **Honor Trial submission**:
+You can switch lanes anytime.
+Leaders must understand tools. Tool-builders must understand leadership.
+But you start where you are strongest.
 
-📌 Create a simple README.md  
-• Introduce yourself  
-• Why you’re learning AI  
-• What strength you bring to the mission
+⸻
 
-Then open an issue titled:
+✅ Step 2 — Your First Assignment
 
-> “Honor Trial #1 — Reporting for Duty”
+Honor Trial Activation
 
-That’s your first mark ✅
+Submit the required onboarding proof:
 
----
+1️⃣ Create your Academy Project Folder in your repo
+2️⃣ Upload your AI Command Résumé (PDF or .md)
+3️⃣ Mark the file:
 
-## ✅ Step 3 — Explore & Expand
+“Honor Trial — Verified by Fire”
 
-Demos + Projects ➜  
-[Main Portfolio](https://github.com/Andrew-Davis-Ai-portfolio)
-
-Tools Lab (coming soon) ➜  
-`/Tools`
-
----
-
-### 🎯 Goal
-
-You start **building real proof** on Day 1.  
-Confidence comes from **doing** — not waiting.
-
----
-
-🔥 Welcome to the mission.  
-When you build, you rise.
+Purpose:
+You show you are not here to observe — you are here to execute.
