@@ -5,7 +5,8 @@ Train. Build. Lead.
 Ethics • Governance • Deployment
 
 ⸻
-
+🔥 Flame Division Command — CAIO/CAIIP Operative
+Authorized for Governance, Ethics & Deployment Protocols
 Quick Nav:
 Programs￼ • Tools￼ • Honor Trials￼ • Start Here￼ • How to Join￼
 
