@@ -1,84 +1,88 @@
-🛡️ Flame Division Academy
+🔥 Flame Division Academy
 
-Training the next generation of AI leaders.
-Whether you’re building your first automation or preparing to guide AI adoption…
-this Academy gives you the tools to Command the Era. 🔥
+Train. Build. Lead.
+
+Ethics • Governance • Deployment
+
+⸻
+
+Quick Nav:
+Programs￼ • Tools￼ • Honor Trials￼ • Start Here￼ • How to Join￼
 
 ⸻
 
 🎓 Dual Certification Path
 
-Choose your track — or master both:
+1) CAIIP — AI Implementation Professional
+Build useful automations, ship real workflows, and learn responsible AI basics.
 
-1️⃣ CAIIP — AI Implementation Professional
+2) CAIO — Chief AI Officer Track
+Strategy, ethics, governance, and executive decision-making for the AI era.
 
-Hands-on learning for creators and doers
-✅ Build real AI tools
-✅ Deploy automations
-✅ Understand ethical + responsible fundamentals
-
-Perfect for getting started with confidence.
-
-2️⃣ CAIO — Chief AI Officer Track
-
-Leadership for the AI-first workplace
-✅ Strategy & governance
-✅ Enterprise deployment
-✅ Make ethical decisions that matter
-
-Designed for future directors and innovators.
+Start with CAIIP for hands-on confidence, then step up to CAIO.
 
 ⸻
 
-🧠 How We Train
+🧠 How You’ll Learn
+	•	Short, friendly lessons — no fluff
+	•	Role-play scenarios to practice decisions
+	•	Templates & checklists you can use at work
+	•	Self-paced: train anytime from phone or laptop
 
-✅ Short, simple lessons — no overload
-✅ Real-world scenarios + role-play missions
-✅ Portfolio-ready automation projects
-✅ Learn at your own pace
-
-We keep things empowering — not overwhelming.
-
-⸻
-
-🏆 What You Gain
-
-By progressing through the Academy, you will:
-	•	Upgrade your career value instantly
-	•	Earn trusted skills in AI + automation
-	•	Show real technical achievements on GitHub
-	•	Prepare for leadership in the AI era
-
-This is education that pays you back.
+We keep it empowering, not overwhelming.
 
 ⸻
 
-🚀 Explore Now
+🚀 Start Here
 
-🔗 Academy Hub:
+✅ Begin your first mission:
+Programs/01_CAIIP/README.md
+
+Don’t see the folder yet? It’s rolling out — check back or follow the tools below to get momentum now.
+
+⸻
+
+🧰 Tools (Active & In Progress)
+	•	Assist-Mail AI — draft better professional emails
+	•	Mantra-AI — quick motivation when you need it
+	•	Psych-Bot (Command Edition) — focus & clarity prompts
+	•	Business Samurai — simple strategy companion
+	•	CAIO Role-Play Tutor — boardroom decision practice
+
+New updates land weekly. Follow along to see them evolve.
+
+⸻
+
+⚔️ Honor Trials
+
+A friendly challenge path that builds real confidence:
+	•	Scenario missions with feedback
+	•	Scores and rank progress
+	•	Earn your recognition the right way
+
+Goal: make you calm, capable, and job-ready.
+
+⸻
+
+📚 Explore More
+
+Main portfolio (projects + demos):
 https://github.com/Andrew-Davis-Ai-portfolio
 
-Check out our active tools and programs:
-	•	CAIO Role-Play Tutor
-	•	Assist-Mail AI
-	•	Mantra AI
-	•	Psych-Bot: Command Edition
-	•	Business Samurai
-	•	…and more coming soon.
+⸻
+
+🤝 How to Join
+
+Early access is opening soon.
+Want to collaborate or ask questions? More contact options will be added here as we open the portal.
 
 ⸻
 
-💡 Mission
+Mission
 
-Put real power in the hands of everyday people —
-through skills, ethics, and technology.
-
-We train confident operators who lead with integrity.
+Put real AI power in everyday hands — with ethics and responsibility at the center.
 
 ⸻
 
-🤝 Contribute / Connect
-
-Have ideas? Want to collaborate?
-We’re building a global network of AI-ready talent.
-Your voice matters here.
+Seal (in progress): Command Verified under Flame Division
+License: MIT
