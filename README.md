@@ -1,76 +1,84 @@
-🔥 Flame Division Academy
+🛡️ Flame Division Academy
 
-Welcome!
-If you’re curious about AI — or ready to lead it — this Academy is for you.
-
-We help you:
-✅ Learn AI
-✅ Build real automations
-✅ Make confident decisions
-✅ Grow as a leader in the AI era
-
-No tech background required.
-Just curiosity, discipline… and a little fire 🔥
+Training the next generation of AI leaders.
+Whether you’re building your first automation or preparing to guide AI adoption…
+this Academy gives you the tools to Command the Era. 🔥
 
 ⸻
 
 🎓 Dual Certification Path
 
-We offer two practical tracks — move at your own pace:
+Choose your track — or master both:
 
 1️⃣ CAIIP — AI Implementation Professional
-	•	Build AI tools and automations
-	•	Work with real workflows and business tasks
-	•	Learn responsible AI best practices
+
+Hands-on learning for creators and doers
+✅ Build real AI tools
+✅ Deploy automations
+✅ Understand ethical + responsible fundamentals
+
+Perfect for getting started with confidence.
 
 2️⃣ CAIO — Chief AI Officer Track
-	•	Strategy, ethics, governance, and leadership
-	•	Learn how AI gets deployed inside organizations
-	•	Make decisions that matter
 
-You can start with CAIIP and grow into CAIO when ready.
+Leadership for the AI-first workplace
+✅ Strategy & governance
+✅ Enterprise deployment
+✅ Make ethical decisions that matter
 
-⸻
-
-🧠 How You Learn Here
-
-✅ Short lessons, no fluff
-✅ Real scenarios you can use in life and business
-✅ Templates, tools, and practice missions
-✅ Role-play training for real-world confidence
-✅ Self-paced — you train when you want
-
-We believe AI should empower you, not overwhelm you.
+Designed for future directors and innovators.
 
 ⸻
 
-💼 What You Can Do After
+🧠 How We Train
 
-By progressing through the academy, you will:
-	•	Add AI skills to your résumé
-	•	Build automation projects you can show employers
-	•	Increase your value in the workplace
-	•	Prepare for leadership roles in the AI age
+✅ Short, simple lessons — no overload
+✅ Real-world scenarios + role-play missions
+✅ Portfolio-ready automation projects
+✅ Learn at your own pace
 
-This isn’t just learning — it’s leveling up your future.
-
-⸻
-
-🚀 Start Here
-
-Explore programs, view projects, and join when you’re ready:
-👉 https://github.com/Andrew-Davis-Ai-portfolio
+We keep things empowering — not overwhelming.
 
 ⸻
 
-🛡️ Our Mission
+🏆 What You Gain
+
+By progressing through the Academy, you will:
+	•	Upgrade your career value instantly
+	•	Earn trusted skills in AI + automation
+	•	Show real technical achievements on GitHub
+	•	Prepare for leadership in the AI era
+
+This is education that pays you back.
+
+⸻
+
+🚀 Explore Now
+
+🔗 Academy Hub:
+https://github.com/Andrew-Davis-Ai-portfolio
+
+Check out our active tools and programs:
+	•	CAIO Role-Play Tutor
+	•	Assist-Mail AI
+	•	Mantra AI
+	•	Psych-Bot: Command Edition
+	•	Business Samurai
+	•	…and more coming soon.
+
+⸻
+
+💡 Mission
 
 Put real power in the hands of everyday people —
 through skills, ethics, and technology.
 
+We train confident operators who lead with integrity.
+
 ⸻
 
-🔗 Connect
+🤝 Contribute / Connect
 
-Have ideas or want to collaborate?
-We welcome innovators, creators, and future leaders.
+Have ideas? Want to collaborate?
+We’re building a global network of AI-ready talent.
+Your voice matters here.
