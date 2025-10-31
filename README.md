@@ -113,3 +113,28 @@ Put real AI power in everyday hands — with ethics and responsibility at the ce
 
 Seal (in progress): Command Verified under Flame Division
 License: MIT
+
+---
+
+## 🔥 Quick Command Navigation
+
+- 🚀 [Start Your First Mission](Start-Here/README.md)
+- 🛠 [CAIIP Program — Build Tools](Programs/01_CAIIP)
+- 🧠 [CAIO Program — Lead & Govern](Programs/02_CAIO)
+- 🏆 Honor Trials (coming soon)
+- 🗂 Tools & Automation Kits (coming soon)
+
+---
+
+## 🛡️ Join the Academy
+
+✅ Request Access → Email: **andrew.davis.flame@proton.me**  
+✅ LinkedIn Command Profile → https://www.linkedin.com/in/andrew-davis-828883126/  
+✅ GitHub Portfolio → (auto-linked here)
+
+> Flame Division trains the next generation of **Certified AI Officers** —  
+> grounded in Ethics, Governance & Deployment discipline.
+
+---
+
+⚙️ *Powered by the Flame Integration Framework*
