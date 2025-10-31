@@ -162,7 +162,7 @@ Build client-grade workflows, CRMs, funnels, emails, and AI automations througho
 
 ## 🛡️ Join the Academy
 
-✅ Request Access → Email: **andrew.davis.flame@proton.me**  
+✅ Request Access → Email: **flamedivision.academy@proton.me**  
 ✅ LinkedIn Command Profile → https://www.linkedin.com/in/andrew-davis-828883126/  
 ✅ GitHub Portfolio → (auto-linked here)
 
