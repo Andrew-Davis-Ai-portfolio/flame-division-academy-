@@ -118,6 +118,42 @@ License: MIT
 
 ## 🔥 Quick Command Navigation
 
+---
+
+## 🧰 Official Automation System — HighLevel
+
+Build client-grade workflows, CRMs, funnels, emails, and AI automations throughout the CAIIP & CAIO tracks.
+
+### 📦 Tool Arsenal — Choose Your Deployment Path
+
+🚀 **Starter Mission System**  
+→ For Operators building their first workflows  
+🔗 https://www.gohighlevel.com/970?fp_ref=4cabs  
+
+⚙️ **Annual Automation Command**  
+→ Unlock unlimited funnels + Pro automation features  
+🔗 https://gohighlevel.com/annual?fp_ref=4cabs  
+
+🧠 **Leadership Grade: Pro Trial**  
+→ CAIO track: AI governance & client-level deployments  
+🔗 https://www.gohighlevel.com/protrial?fp_ref=4cabs  
+
+🎯 **Bootcamp Expansion**  
+→ Level-up as a certified HighLevel Operator  
+🔗 https://www.gohighlevel.com/highlevel-bootcamp?fp_ref=4cabs  
+
+🤖 **AI Weapon System: Voice + Agents**  
+→ Add AI sales reps + smart calling automations  
+🔗 https://www.gohighlevel.com/ai?fp_ref=4cabs  
+
+💼 **SaaS-Preneur Workshop**  
+→ Become a reseller with business-grade recurring income  
+🔗 http://gohighlevel.com/saaspreneur-workshop?fp_ref=4cabs  
+
+> ✅ Using these tools supports the Academy mission — *no extra cost to you*.  
+> ✅ Required across multiple missions for skill & certification completion.
+
+---
 - 🚀 [Start Your First Mission](Start-Here/README.md)
 - 🛠 [CAIIP Program — Build Tools](Programs/01_CAIIP)
 - 🧠 [CAIO Program — Lead & Govern](Programs/02_CAIO)
