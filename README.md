@@ -22,15 +22,31 @@ Executive judgment protocols for AI leadership.
 Compete to prove mastery — earn recognition & ranks.
 ---
 
-🎓 Dual Certification Path
+## 🎓 Dual Certification Command Path
 
-1) CAIIP — AI Implementation Professional
-Build useful automations, ship real workflows, and learn responsible AI basics.
+Your advancement follows a structured intelligence pipeline:
 
-2) CAIO — Chief AI Officer Track
-Strategy, ethics, governance, and executive decision-making for the AI era.
+**Level 1 — CAIIP Operator**
+- Master automations that deliver real workflow value
+- Build tools, ship systems, learn responsible AI
+- 🛠 Outcome: You become the person who *gets things working*
 
-Start with CAIIP for hands-on confidence, then step up to CAIO.
+**Level 2 — CAIO Executive**
+- Strategy, governance & board-room decision making
+- Risk, ethics & operational clarity at scale
+- 🦁 Outcome: You become the person who *decides how AI is used*
+
+📌 **Protocol:**  
+Start CAIIP → build confidence and a portfolio → unlock CAIO promotion.
+
+---
+## 🧠 How You’ll Learn
+
+- Short, practical missions — no fluff
+- Real scenarios used in professional settings
+- Templates & checklists ready for work deployment
+- Self-paced, phone- or laptop-compatible
+- Designed for **empowerment**, not overwhelm
 
 ⸻
 
