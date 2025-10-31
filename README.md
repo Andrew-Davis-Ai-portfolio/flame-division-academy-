@@ -118,8 +118,6 @@ License: MIT
 
 ## 🔥 Quick Command Navigation
 
----
-
 ## 🧰 Official Automation System — HighLevel
 
 Build client-grade workflows, CRMs, funnels, emails, and AI automations throughout the CAIIP & CAIO tracks.
