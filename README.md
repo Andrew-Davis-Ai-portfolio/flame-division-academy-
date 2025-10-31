@@ -1,17 +1,22 @@
-🔥 Flame Division Academy
+# 🔥 Flame Division Academy
 
-Train. Build. Lead.
+Train. Build. Lead.  
+**Ethics • Governance • Deployment**
 
-Ethics • Governance • Deployment
+---
 
-⸻
+## 🧭 Operative Navigation — Mission Begins Now
 
-🔥 Flame Division Command — CAIO/CAIIP Operative
-Authorized for Governance, Ethics & Deployment Protocols
-Quick Nav:
-Programs￼ • Tools￼ • Honor Trials￼ • Start Here￼ • How to Join￼
+Choose your path with intent — each click is a command:
 
-⸻
+- 🚀 **[Start Your First Mission](/Start-Here/README.md)**
+- 🛠️ **[CAIIP Program — Build Tools & Automations](/Programs/01_CAIIP)**
+- 🧭 **[CAIO Program – Lead, Govern & Decide][caio]**
+
+[caio]: /Programs/02_CAIO
+- 🎖️ **Honor Trials** (coming soon)
+
+---
 
 🎓 Dual Certification Path
 
