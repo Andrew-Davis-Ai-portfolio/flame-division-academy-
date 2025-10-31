@@ -7,15 +7,19 @@ Train. Build. Lead.
 
 ## 🧭 Operative Navigation — Mission Begins Now
 
-Choose your path with intent — each click is a command:
+Follow command structure — select your mission:
 
-- 🚀 **[Start Your First Mission](/Start-Here/README.md)**
-- 🛠️ **[CAIIP Program — Build Tools & Automations](/Programs/01_CAIIP)**
-- 🧭 **[CAIO Program – Lead, Govern & Decide][caio]**
+1️⃣ **[Start Your First Mission](/Start-Here/README.md)**  
+Launch immediately with beginner-friendly drills.
 
-[caio]: /Programs/02_CAIO
-- 🎖️ **Honor Trials** (coming soon)
+2️⃣ **[CAIIP Program — Build Tools & Automations](/Programs/01_CAIIP)**  
+Create real automations, workflows & AI skills you can show.
 
+3️⃣ **[CAIO Program — Lead, Govern & Decide](/Programs/02_CAIO)**  
+Executive judgment protocols for AI leadership.
+
+4️⃣ ⭐ **Honor Trials** (coming soon)  
+Compete to prove mastery — earn recognition & ranks.
 ---
 
 🎓 Dual Certification Path
