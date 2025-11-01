@@ -13,11 +13,11 @@ Ethics • Governance • Deployment
 ## 🧩 Operative Navigation — Mission Access
 
 | Program | Status | Access |
-|---------|:-----:|:------:|
-| **CAIP — AI Implementation Professional** <br> *Deploy AI with precision* | ✅ Live | 🔗 [Enter Program →](Programs/01_CAIP/README.md) |
-| **CAIO — Chief AI Officer Track** <br> *Strategic AI governance* | ⏳ Launching Soon | — |
-| **Ethics Command Core** <br> *Responsible AI authority* | 🛠️ In Development | — |
-| **Deployment Labs** <br> *Live testing environments* | ✅ Demo Operational | 🔗 [KSM Lab Demo →](Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo) |
+|--------|:-----:|:------:|
+| **CAIP — AI Implementation Professional**<br>🟣 *CAIP Badge: Verified*<br>**Mission:** Deploy AI systems safely into operations. | ✅ Live | 🔗 [Enter Program →](Programs/01_CAIP/README.md) |
+| **CAIO — Chief AI Officer Track**<br>🟡 *CAIO Badge: Pending*<br>**Mission:** Command AI governance at the executive level. | ⏳ Launching Soon | — |
+| **Ethics Command Core**<br>⚖️ *Ethical Authority Clearance*<br>**Mission:** Enforce Responsible AI principles & compliance. | 🛠️ In Development | — |
+| **Deployment Labs**<br>🧪 *Lab Patch: Operational*<br>**Mission:** Live-fire AI testing and automation trials. | ✅ Demo Operational | 🔗 [KSM Lab Demo →](Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo) |
 ---
 
 ## 📡 Operative Navigation — Mission Begins Now
