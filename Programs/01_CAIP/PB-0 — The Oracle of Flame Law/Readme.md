@@ -1,7 +1,3 @@
-## 🖼️ Pantheon Breaker Zero — Hero Render
-
-![PB-0 Hero Render](./assets/PB0_hero.png)
-
 ## 🌌 Pantheon Breaker Zero — Hero Render
 
 <img src="./assets/PB0_hero.png" width="600" alt="Pantheon Breaker Zero — Hero Render">
@@ -36,4 +32,3 @@ Refine through contradiction.*
 Navigation:  
 ⬅️ Back to [KSM — Keyword Sniper Mistress](../KSM/)  
 🏛️ Back to [Flame Division Academy Root](../../)
-> “If the universe disagrees with knowledge… the universe corrects itself.”
