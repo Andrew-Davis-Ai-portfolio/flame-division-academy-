@@ -14,11 +14,10 @@ Ethics • Governance • Deployment
 
 | Program | Status | Access |
 |---------|:-----:|:------:|
-| **CAIP — AI Implementation Professional** | ✅ Live | 🔗 [Enter Program →](Programs/01_CAIP/README.md) |
-| **CAIO — Chief AI Officer Track** | ⏳ Launching Soon | — |
-| **Ethics Command Core** | 🛠️ In Development | — |
-| **Deployment Labs** | ✅ Demo Operational | 🔗 [KSM Lab Demo →](Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo) |
-
+| **CAIP — AI Implementation Professional** <br> *Deploy AI with precision* | ✅ Live | 🔗 [Enter Program →](Programs/01_CAIP/README.md) |
+| **CAIO — Chief AI Officer Track** <br> *Strategic AI governance* | ⏳ Launching Soon | — |
+| **Ethics Command Core** <br> *Responsible AI authority* | 🛠️ In Development | — |
+| **Deployment Labs** <br> *Live testing environments* | ✅ Demo Operational | 🔗 [KSM Lab Demo →](Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo) |
 ---
 
 ## 📡 Operative Navigation — Mission Begins Now
