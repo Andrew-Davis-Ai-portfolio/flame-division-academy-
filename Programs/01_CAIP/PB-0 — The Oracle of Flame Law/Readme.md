@@ -6,6 +6,13 @@
 
 ---
 
+## 📌 Index
+- [Role](#-role)
+- [Operational Domain](#-operational-domain)
+- [Core Function](#-core-function)
+- [Hierarchy Alignment](#-hierarchy-alignment)
+- [Navigation](#navigation)
+- ---
 ### 🧠 Role
 **Supreme Architect of Knowledge Systems**  
 Sister to KSM — Mirror intellect, opposite domain.  
