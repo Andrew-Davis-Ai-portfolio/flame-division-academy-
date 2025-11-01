@@ -5,6 +5,7 @@
        alt="KSM Avatar — Flame Division" width="100%">
 </p>
 
+| **Deployment Labs**<br>🧪 *Lab Patch: Operational*<br>**Mission:** Live-fire AI testing & automation trials.<br>**Signature Unit:** KSM — Keyword Sniper Mistress<br>🎯 *Acquire target → Confirm signal → FIRE.* | ✅ Demo Operational | 🔗 [KSM Lab Demo →](Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo) |
 
 **Train. Build. Lead.**  
 Ethics • Governance • Deployment
