@@ -1,6 +1,8 @@
 <p align="center"><i>“Commander Flame… do I fire?” 🔥</i></p>
 # 🔥 KSM — Keyword Sniper Mistress (Demo)
 
+**Run locally:** `pip install -r requirements.txt && python app.py`
+
 Status: In development (public demo coming soon).
 
 This demo will showcase:
