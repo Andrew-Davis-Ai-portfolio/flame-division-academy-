@@ -78,3 +78,14 @@ This is **proprietary tactical AI**.
 ---
 
 ## 📌 Artifact Repository
+
+<p align="center">
+  <a href="https://github.com/flame-division-academy-/tree/main/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM" target="_blank">
+    <img src="https://img.shields.io/badge/OPEN%20KSM-Command%20Archive-%23D4AF37?style=for-the-badge&labelColor=0E0E12">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/flame-division-academy-/tree/main/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/KSM-Receipts" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW%20RECEIPTS-Operational%20Proof-%23D4AF37?style=for-the-badge&labelColor=0E0E12">
+  </a>
+</p>
