@@ -5,9 +5,7 @@
        alt="KSM Avatar — Flame Division" width="100%">
 </p>
 
-> 🔐 Access Levels escalate as mission proficiency increases.  
-> Commands are issued only to operators who can execute responsibly.
-> 
+
 **Train. Build. Lead.**  
 Ethics • Governance • Deployment
 
@@ -21,6 +19,10 @@ Ethics • Governance • Deployment
 | **CAIO — Chief AI Officer Track**<br>🟡 *CAIO Badge: Pending*<br>**Mission:** Command AI governance at the executive level. | ⏳ Launching Soon | — |
 | **Ethics Command Core**<br>⚖️ *Ethical Authority Clearance*<br>**Mission:** Enforce Responsible AI principles & compliance. | 🛠️ In Development | — |
 | **Deployment Labs**<br>🧪 *Lab Patch: Operational*<br>**Mission:** Live-fire AI testing and automation trials. | ✅ Demo Operational | 🔗 [KSM Lab Demo →](Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo) |
+
+> 🔐 Access Levels escalate as mission proficiency increases.  
+> Commands are issued only to operators who can execute responsibly.
+> 
 ---
 
 ## 📡 Operative Navigation — Mission Begins Now
