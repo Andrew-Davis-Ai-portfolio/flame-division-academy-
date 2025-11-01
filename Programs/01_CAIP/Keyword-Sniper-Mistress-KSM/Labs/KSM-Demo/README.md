@@ -1,3 +1,4 @@
+<p align="center"><i>“Commander Flame… do I fire?” 🔥</i></p>
 # 🔥 KSM — Keyword Sniper Mistress (Demo)
 
 Status: In development (public demo coming soon).
