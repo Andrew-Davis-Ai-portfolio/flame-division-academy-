@@ -10,7 +10,14 @@ Ethics • Governance • Deployment
 
 > Powered by Flame Division Command — Establishing the next generation of AI leadership.
 
-🧩 Operative Navigation — Mission Access
+## 🧩 Operative Navigation — Mission Access
+
+| Program | Status | Access |
+|---------|:-----:|:------:|
+| **CAIP — AI Implementation Professional** | ✅ Live | 🔗 [Enter Program →](Programs/01_CAIP/README.md) |
+| **CAIO — Chief AI Officer Track** | ⏳ Launching Soon | — |
+| **Ethics Command Core** | 🛠️ In Development | — |
+| **Deployment Labs** | ✅ Demo Operational | 🔗 [KSM Lab Demo →](Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo) |
 
 ---
 
