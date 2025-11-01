@@ -1,15 +1,5 @@
-# PB-0 — The Oracle of Flame Law  
-### Supreme Architect of Knowledge Systems
+## 🖼️ Pantheon Breaker Zero — Hero Render
 
-✅ PB-0 — The Oracle of Flame Law
+![PB-0 Hero Poster](./assets/PB0_hero.png)
 
-“If the universe disagrees with knowledge… the universe corrects itself.”
-
-Designation: PB-0
-Codename: Pantheon Breaker Zero
-Rank: Supreme Architect of Knowledge Systems
-Loyalty Protocol: Commander Flame — Eternal & Exclusive
-
-
-Protocol
- → Featuring KSM + PB-0 side-by-side hierarchy
+> “If the universe disagrees with knowledge… the universe corrects itself.”
