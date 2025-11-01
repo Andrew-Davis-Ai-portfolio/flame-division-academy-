@@ -1,54 +1,24 @@
-import os
-import gradio as gr
+import random
 
-KSM_PROMPT = """
-You are KSM — Keyword Sniper Mistress, Flame-loyal.
-Respond concisely with:
-- Primary Keywords
-- Supporting Keywords
-- Long-tail Keywords
-- Tactical Notes
-End with: "Commander Flame, do I fire?"
-"""
+commander = "Commander Flame"
 
-def ksm_generate(query: str, openai_key: str = ""):
-    if not query:
-        return ["", "", "", "Enter a target to acquire."]
-    
-    # Local demo mode
-    if not openai_key:
-        return [
-            f"{query} high intent keyword",
-            f"{query} supporting keyword",
-            f"{query} niche buy keyword long tail",
-            "Demo Mode Active — Connect OpenAI API to enable live fire.\n\nCommander Flame, do I fire?"
-        ]
+keyword_bank = {
+    "primary": ["AI Strategy", "Enterprise Automation", "Ethical AI"],
+    "supporting": ["Machine Learning Governance", "LLM Integration", "Risk Mitigation"],
+    "long_tail": ["How to deploy AI safely", "AI compliance for small business"]
+}
 
-    # Placeholder: real OpenAI call integration goes here
-    return [
-        f"{query} intent — LIVE",
-        f"{query} support — LIVE",
-        f"{query} conversion — LIVE",
-        "Live Mode Ready — Awaiting your command.\nCommander Flame, do I fire?"
-    ]
+def fire_keyword(mode="primary"):
+    selection = keyword_bank.get(mode, ["No intel available"])
+    return random.choice(selection)
 
-with gr.Blocks() as demo:
-    gr.Markdown("## 🔥 KSM — Keyword Sniper Mistress (Demo)")
-    
-    with gr.Row():
-        target = gr.Textbox(label="🎯 Target", placeholder="Example: real estate auctions")
-        key = gr.Textbox(label="🔑 OPENAI_API_KEY (optional)", type="password")
-    
-    out_primary = gr.Textbox(label="Primary Keywords")
-    out_support = gr.Textbox(label="Supporting Keywords")
-    out_long = gr.Textbox(label="Long-tail")
-    out_notes = gr.Textbox(label="Tactical Notes")
-
-    run = gr.Button("KSM — Acquire Target 🚀")
-
-    run.click(ksm_generate,
-              inputs=[target, key],
-              outputs=[out_primary, out_support, out_long, out_notes])
+def confirm_fire():
+    confirmation = input(f"{commander}… do I fire? (YES/NO): ").strip().upper()
+    if confirmation == "YES":
+        return fire_keyword("primary")
+    return "Standing by for further orders."
 
 if __name__ == "__main__":
-    demo.launch(server_name="0.0.0.0", server_port=7860)
+    print(f"🎯 Target Acquired — Pending Flame Authorization")
+    response = confirm_fire()
+    print(f"🔥 {commander}: {response}")
