@@ -5,6 +5,9 @@
        alt="KSM Avatar — Flame Division" width="100%">
 </p>
 
+> 🔐 Access Levels escalate as mission proficiency increases.  
+> Commands are issued only to operators who can execute responsibly.
+> 
 **Train. Build. Lead.**  
 Ethics • Governance • Deployment
 
