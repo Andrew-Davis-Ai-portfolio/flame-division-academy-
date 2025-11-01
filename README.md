@@ -8,8 +8,7 @@
 **Train. Build. Lead.**  
 Ethics • Governance • Deployment
 
-> Powered by the Flame Integration Framework  
-> *Where responsible AI becomes operational power.*
+> Powered by Flame Division Command — Establishing the next generation of AI leadership.
 
 ---
 
