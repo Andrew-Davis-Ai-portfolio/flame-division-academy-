@@ -1,5 +1,10 @@
 # 🔥 Flame Division Academy
 
+<p align="center">
+  <img src="Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo/F9588A52-58BE-4204-926F-A6B2BC71027B.png" 
+       alt="KSM Avatar — Flame Division" width="100%">
+</p>
+
 **Train. Build. Lead.**  
 Ethics • Governance • Deployment
 
