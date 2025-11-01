@@ -10,6 +10,8 @@ Ethics • Governance • Deployment
 
 > Powered by Flame Division Command — Establishing the next generation of AI leadership.
 
+🧩 Operative Navigation — Mission Access
+
 ---
 
 ## 📡 Operative Navigation — Mission Begins Now
