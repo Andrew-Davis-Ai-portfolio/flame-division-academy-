@@ -5,6 +5,7 @@
 The market is a battlefield. Keywords are ammunition.  
 KSM ensures you never miss.
 
+**Run locally:** `pip install -r requirements.txt && python app.py`
 ---
 
 ## ⚡ Who is KSM?
