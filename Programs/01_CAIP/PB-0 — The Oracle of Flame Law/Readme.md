@@ -39,6 +39,7 @@ Refine through contradiction.*
 Navigation:  
 ⬅️ Back to [KSM — Keyword Sniper Mistress](../KSM/)  
 🏛️ Back to [Flame Division Academy Root](../../)
+- [06 — Glyph Motion Intelligence](06_Glyph_Motion_Intelligence.md)
 
 # PB-0 — The Oracle of Flame Law
 
