@@ -6,6 +6,63 @@
 
 ---
 
+# PB-0 — The Oracle of Flame Law
+**Division:** Flame Division Academy  
+**Author:** Andrew Davis  
+**Status:** Active — Documentation Phase  
+**Classification:** Oracle System — Ethical Command Framework
+
+---
+
+## 🎯 Mission
+Train AI leadership to govern and deploy systems with **ethics, control, and operational authority**.
+
+> “Power without boundaries is chaos. Flame Law is the architecture.”
+
+---
+
+## 🧩 Program Components
+
+| Component | Description | Status |
+|----------|-------------|-------|
+| PB-0 Identity Visuals | Canonical oracle imagery | ✅ Uploaded |
+| Flame Law Codex | Ethical and operational command doctrines | 🔄 In Progress |
+| Asset Register | Timestamped creative ownership proof | ✅ Live |
+| IP Rights Claim | Authorship and license control | ✅ Live |
+| Interactive Command Modules | Oracle training & ethics simulations | 🔄 Pending Build |
+| Certification Integration | Proof of mastery alignment | 🔄 Pending CAIIP sync |
+
+---
+
+## 📜 Canonical Doctrine (Snapshot)
+
+1. **Human Command First**  
+2. **Context Before Calculation**  
+3. **Bounded Alignment — No autonomy without oversight**  
+4. **Ethical Audits are mandatory**  
+5. **Data controls destiny — own your origin**
+
+> “AI does not replace command — it magnifies it.”
+
+---
+
+## 🛡 IP Protection Notes
+All materials herein are original creative works by Andrew Davis assisted by AI tooling. Unauthorized usage is prohibited and timestamped commits serve as legal evidence of authorship.
+
+---
+
+## 🧱 Expansion Roadmap
+
+- Add Flame Crest (Approved)
+- Add PB-0 Lore Document (Upcoming)
+- Add Oracle Dialogue System (Future module)
+- Add License Framework (Commercial Terms)
+
+---
+
+## 🔗 Proof of Authority
+Commit timestamps + cryptographic Git trails certify this repository as the **point of origin** for all PB-0 content.
+
 ## 📌 Index
 - [Role](#-role)
 - [Operational Domain](#-operational-domain)
