@@ -139,5 +139,31 @@ grounded in Ethics • Governance • Deployment discipline.
 
 ---
 
-© 2025 Flame Division Academy  
-*Command Verified. Human-Aligned. Mission Ready.*
+## 🛡️ Legal Protection & Intellectual Property Rights
+
+All original content within the Flame Division Academy — including documentation,
+images, legal frameworks, training modules, automation scripts, system designs,
+and the Flame Law governance doctrine — is the exclusive intellectual property of
+Andrew Davis (Commander Flame).
+
+Unauthorized reproduction, redistribution, or commercial use is strictly prohibited.
+
+Legal Frameworks Enforced:
+- ✅ Copyright Protection (Global)
+- ✅ Digital Millennium Copyright Act (DMCA)
+- ✅ Trade Secret Safeguards
+- ✅ AI System Outputs Chain-of-Authorship Verified
+
+Monitoring System:
+Flame Division deploys automated search logs and watermark identifiers within
+documents & assets. Any unauthorized usage triggers:
+1) Cease & Desist notification
+2) Full DMCA takedown requests
+3) Damages claim for commercialization
+
+**Ethical Clause**
+AI is deployed for empowerment — never exploitation.
+If you want to collaborate or license Flame Law material,
+contact the Founder directly: [(https://www.linkedin.com/in/andrew-davis-828883126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
+
+© 2025 · Flame Division Academy · All Rights Reserved
