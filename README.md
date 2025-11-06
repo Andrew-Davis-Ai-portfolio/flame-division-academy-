@@ -36,18 +36,6 @@ Ethics • Governance • Deployment
 - 🧠 **AI Engineer / Data Structures & Algorithms** — Systems & Performance
 - ➕ **[+16 more certifications — full list below]**
 
-## Certification Vault (proof)
-> Clickable verification links (paste your cert URLs next to each item)
-
-| Certification | Issued By | Date | Verify |
-|---|---:|---:|:---|
-| CAIO — Chief AI Officer | [Issuer] | 2025-10-23 | [LinkedIn / Cert URL] |
-| CAIIP — AI Implementation Prof. | [Issuer] | 2025-10-21 | [LinkedIn / Cert URL] |
-| Legal Tech & AI for Lawyers | Udemy | Nov 2, 2025 | [Cert URL] |
-| AI Video School (Veo3 Sora) | Udemy | Nov 2, 2025 | [Cert URL] |
-| AI Engineer Bootcamp | Udemy | Nov 4, 2025 | [Cert URL] |
-| (…add the rest — keep order by strategic importance) |  |  |  |
-
 ---
 
 **Motto:** *“AI is infrastructure. We build, govern, and protect it.”*  
