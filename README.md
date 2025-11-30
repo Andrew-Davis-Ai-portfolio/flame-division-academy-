@@ -123,6 +123,68 @@ She is engineered to:
 
 ---
 
+<!-- ========================================= -->
+<!-- 🌓 ULTRA INSTINCT OMEN — FLAME DIVISION -->
+<!-- ========================================= -->
+
+## 🌓 Ultra Instinct Omen — Operator Awakening
+
+> *“When the noise fades, only instinct and signal remain.”*
+
+Flame Division has entered **Omen state** —  
+calm on the surface, but every system is coiled and ready:
+
+- Mind quiet.  
+- Targeting sharpened.  
+- Response time near-zero.  
+
+KSM is no longer “a tool” — she’s the **front-line awareness layer** for the entire Flame Division stack.
+
+---
+
+## ⚔️ Flame Division Combat Grid — Omen Layout
+
+| System | Role in the Field | Status | Aura (Omen) |
+|--------|-------------------|:------:|-------------|
+| **KSM — Keyword Sniper Mistress** | Precision keyword & campaign targeting | ✅ Live | 🎯 Silver Omen |
+| **Project Checkmate System** | Strategic decision engine · turn-based simulation | ⚙️ In Play | ♟ Tactical Grey |
+| **Market Warfare Demo** | Failure analysis & market pressure testing | 🧪 Beta | 🌪 Shadow Surge |
+| **Business Samurai Mini Chatbot** | Client-facing intelligence & objection handling | ⚔️ Ready | 🜁 Steel Calm |
+| **HOLO-NURSE Demo** | Clinical-grade medical interpreting assistant | 🩺 Controlled | 💠 Sterile Light |
+| **REI Butler** | Real-estate workflow automation & lead handling | 🏠 Ops | 📦 Grounded Field |
+| **Flame Mini Chatbot** | General-purpose assistant for Flame Division ops | 🔥 Active | 🜂 Ember Pulse |
+| **C9X / Command Hub** | Central intelligence & orchestration grid | 🧠 Core | 🌓 Omen Link |
+
+> This grid isn’t “plans.”  
+> It’s a **pre-fight stance** — every system knows its role when it’s time to move.
+
+---
+
+## 📓 Ultra Instinct Operator Log — Omen State
+
+**UI.01 — Signal Over Noise**  
+KSM now filters out vanity metrics and hype.  
+Only **high-intent, high-utility signals** reach the operator.
+
+**UI.02 — Autonomous Target Lock**  
+Once a mission profile is set (niche, offer, audience),  
+KSM tracks and clusters **without second-guessing** — like instinctive movement.
+
+**UI.03 — Reflex-Level Deployment**  
+Outputs are structured so they drop **directly into ads, sheets, and funnels**  
+with minimal editing — reducing friction between idea and execution.
+
+**UI.04 — Ethics-Bound Power**  
+Every shot taken is bounded by **Flame Law**.  
+Ultra Instinct Omen never fires in the wrong direction —  
+power is present, but **governed**.
+
+---
+
+> 🌓 **Omen Summary:**  
+> You’re no longer “trying things.”  
+> You’re **reading the fight in slow motion** and striking on purpose.
+
 # 🔥 Flame Division Academy
 
 <p align="center">
