@@ -35,6 +35,86 @@
   </a>
 </p>
 
+## 🎯 KSM — Keyword Sniper Mistress · Live Deployment Suite
+
+<p align="center">
+  <em>“Acquire target → Confirm signal → FIRE.”</em>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Live%20Demo-HuggingFace%20KSM%20Lab-black?style=for-the-badge&logo=huggingface&logoColor=D4AF37" alt="KSM Live Demo Badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo" target="_blank" rel="noopener">🎮 Launch Demo</a> ·
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/tree/main/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM" target="_blank" rel="noopener">📂 Repo</a> ·
+  <a href="https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/blob/main/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/PRICING.md" target="_blank" rel="noopener">💰 Pricing & Packages</a>
+</p>
+
+---
+
+### 🧪 What KSM Does
+
+**KSM — Keyword Sniper Mistress** is your **AI targeting analyst**:
+
+- 🎯 Locks onto **profitable, intent-driven keywords**
+- 🧬 Preserves **brand voice + Flame Division tone**
+- 📊 Outputs **ready-to-deploy targeting sheets** for ads, SEO, and landing pages
+- 🧱 Built for **operators, not tourists** — designed to sit inside real campaigns
+
+---
+
+### ⚙️ KSM Deployment Stack
+
+| Layer | Role |
+|------|------|
+| 🧠 LLM Core | Keyword intelligence, angle generation, campaign language |
+| 🧮 Targeting Engine | Clustering, search intent, funnel stage mapping |
+| 🧾 Output Grid | CSV-style / sheet-ready exports for ads, blogs, videos |
+| 🛡️ Governance | Flame Law alignment · no shady niches · ethical constraints |
+
+---
+
+### 🚀 Quickstart — How to Run the Demo
+
+1. **Open the live lab:**  
+   👉 https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo  
+
+2. **Feed KSM your mission intel:**  
+   - Niche / Offer  
+   - Audience  
+   - Channel (ads, SEO, YouTube, etc.)  
+   - Budget level *(test / scale / domination)*  
+
+3. **Review the output grid:**  
+   - Primary keywords  
+   - Support phrases & angles  
+   - Suggested hooks & headlines  
+
+4. **Export & deploy:**  
+   - Drop into Google Sheets, ad manager, or your CMS  
+   - Use as the “truth table” for content & campaigns  
+
+---
+
+### 🧱 KSM Asset Links
+
+- 📂 **KSM System Folder (Repo)**  
+  https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/tree/main/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM  
+
+- 💰 **Pricing · Packages · Use-Rights**  
+  https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/blob/main/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/PRICING.md  
+
+- 🎮 **Live Demo (Primary)**  
+  https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo  
+
+---
+
+> 🦊 **Flame Note:** KSM isn’t a “keyword tool” — it’s a **campaign sniper**.  
+> You don’t spray & pray. You **fire once, on purpose.**
+> 
 ---
 
 | **Deployment Labs**<br>🧪 *Lab Patch: Operational*<br>**Mission:** Live-fire AI testing & automation trials.<br>**Signature Unit:** KSM — Keyword Sniper Mistress<br>🎯 *Acquire target → Confirm signal → FIRE.* |
