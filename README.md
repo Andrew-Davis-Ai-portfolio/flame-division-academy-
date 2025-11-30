@@ -1,31 +1,19 @@
 <p align="center">
-  <svg width="100%" height="160" viewBox="0 0 1600 300" xmlns="http://www.w3.org/2000/svg">
-    <!-- Background -->
-    <rect width="1600" height="300" fill="#0E0E12"/>
-    
-    <!-- Gold Gradient Bar -->
-    <rect y="260" width="1600" height="40" fill="url(#goldGrad)" />
-    
-    <defs>
-      <linearGradient id="goldGrad" x1="0" x2="1600" y1="0" y2="0">
-        <stop offset="0%" stop-color="#8C7A37"/>
-        <stop offset="50%" stop-color="#D4AF37"/>
-        <stop offset="100%" stop-color="#8C7A37"/>
-      </linearGradient>
-    </defs>
-
-    <!-- Title -->
-    <text x="50%" y="140" fill="#D4AF37" font-size="72" font-family="Arial Black, sans-serif" text-anchor="middle">
-      KSM LAB DEMO — LIVE DEPLOYMENT
-    </text>
-
-    <!-- Subtitle -->
-    <text x="50%" y="200" fill="#B8BDC7" font-size="32" font-family="Arial, sans-serif" text-anchor="middle">
-      Flame Division · Black & Gold Command Edition
-    </text>
-  </svg>
+  <img src="https://dummyimage.com/1600x300/0E0E12/D4AF37&text=KSM+LAB+DEMO+—+LIVE+DEPLOYMENT" 
+       alt="KSM Lab Demo — Live Deployment Banner" width="100%">
 </p>
 
+<p align="center">
+  <strong style="color:#B8BDC7;">Flame Division · Black & Gold Command Edition</strong>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo" target="_blank">
+    <img src="https://img.shields.io/badge/LAUNCH%20DEMO-FLAME%20DIVISION%20KSM-black?style=for-the-badge&logo=huggingface&logoColor=D4AF37" />
+  </a>
+</p>
+
+---
 <p align="center">
   <a href="https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo" target="_blank">
     <img src="https://img.shields.io/badge/LAUNCH%20DEMO-FLAME%20DIVISION%20KSM-black?style=for-the-badge&logo=huggingface&logoColor=D4AF37" />
