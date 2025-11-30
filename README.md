@@ -15,6 +15,114 @@
 
 ---
 
+<!-- ========================================= -->
+<!-- ☢️ PATCH 7 — AUTO-SYNC BADGE ROW -->
+<!-- ========================================= -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/KSM%20Status-LIVE🔥-black?style=for-the-badge&labelColor=0E0E12&color=D4AF37" />
+  <img src="https://img.shields.io/badge/Build-Operational-black?style=for-the-badge&labelColor=0E0E12&color=555" />
+  <img src="https://img.shields.io/badge/Version-v1.0.0-black?style=for-the-badge&labelColor=0E0E12&color=888" />
+  <img src="https://img.shields.io/badge/Last_Update-Automated-black?style=for-the-badge&labelColor=0E0E12&color=444" />
+</p>
+
+---
+
+<!-- ========================================= -->
+<!-- ☢️ PATCH 4D — ANIMATED SHIMMER BANNER -->
+<!-- ========================================= -->
+
+<p align="center">
+  <img src="https://i.ibb.co/7WtTt8L/KSM-Gold-Shimmer-Banner.gif" 
+       alt="KSM LAB DEMO — LIVE DEPLOYMENT Animated Banner"
+       width="100%">
+</p>
+
+<p align="center"><strong>Flame Division · Black & Gold Command Deck</strong></p>
+
+---
+
+<!-- ========================================= -->
+<!-- ☢️ PATCH 6 — COMMAND DECK TABS (GitHub Safe) -->
+<!-- ========================================= -->
+
+<p align="center">
+  <a href="#overview"><b>▣ Overview</b></a> ·
+  <a href="#demo"><b>▣ Demo</b></a> ·
+  <a href="#mission-flow"><b>▣ Mission Flow</b></a> ·
+  <a href="#pricing"><b>▣ Pricing</b></a> ·
+  <a href="#about-ksm"><b>▣ About KSM</b></a>
+</p>
+
+---
+
+# <a id="overview"></a>🎯 Overview — KSM Nuclear Edition
+
+**KSM — Keyword Sniper Mistress** operates as a precision targeting system  
+designed for strategic operators, marketers, and analysts who demand  
+**accuracy, intention, and firepower.**
+
+---
+
+# <a id="demo"></a>🎮 Live Demo Access
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo" target="_blank">
+    <img src="https://img.shields.io/badge/LAUNCH%20DEMO-KSM%20LAB%20DEMO-black?style=for-the-badge&logo=huggingface&logoColor=D4AF37" />
+  </a>
+</p>
+
+---
+
+<!-- ========================================= -->
+<!-- ☢️ PATCH 5 — TACTICAL VISUAL DECK -->
+<!-- ========================================= -->
+
+## 🖼️ KSM Tactical Visual Deck
+
+<p align="center">
+  <img src="https://dummyimage.com/500x280/0E0E12/D4AF37&text=TARGET+ACQUISITION" width="30%" />
+  <img src="https://dummyimage.com/500x280/0E0E12/D4AF37&text=SIGNAL+CONFIRMATION" width="30%" />
+  <img src="https://dummyimage.com/500x280/0E0E12/D4AF37&text=PRECISION+FIRE+OUTPUT" width="30%" />
+</p>
+
+<p align="center">
+  <em>Visualizing how KSM tracks, verifies, and fires on keyword opportunities.</em>
+</p>
+
+---
+
+# <a id="mission-flow"></a>🚀 Mission Flow — How KSM Operates
+
+1. **Input Intel** — niche, offer, angle  
+2. **Scan Intent Signals** — search patterns + funnel stage  
+3. **Generate Precision Targets** — tight clusters only  
+4. **Deploy Output Grid** — ad-ready, SEO-ready, sheet-ready  
+5. **Repeat Fire** — refine → retest → scale  
+
+---
+
+# <a id="pricing"></a>💰 Pricing & Packages
+
+📄 Repo Pricing Sheet:  
+https://github.com/Andrew-Davis-Ai-portfolio/flame-division-academy-/blob/main/Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/PRICING.md
+
+---
+
+# <a id="about-ksm"></a>🦊 About KSM
+
+KSM isn’t designed to “do keywords.”  
+She is engineered to:
+
+- Identify **profitable patterns**  
+- Align them with **brand voice**  
+- Deliver **military-grade targeting sheets**  
+- Stay within **Flame Law Ethical Limits**  
+
+**A sniper, not a spray-and-pray tool.**
+
+---
+
 # 🔥 Flame Division Academy
 
 <p align="center">
