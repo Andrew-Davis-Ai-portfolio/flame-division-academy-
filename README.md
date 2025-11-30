@@ -5,165 +5,122 @@
        alt="KSM Avatar — Flame Division" width="100%">
 </p>
 
-| **Deployment Labs**<br>🧪 *Lab Patch: Operational*<br>**Mission:** Live-fire AI testing & automation trials.<br>**Signature Unit:** KSM — Keyword Sniper Mistress<br>🎯 *Acquire target → Confirm signal → FIRE.* | ✅ Demo Operational | 🔗 [KSM Lab Demo →](Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo) |
+<p align="center">
+  <a href="https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/KSM%20Lab%20Demo-Live%20on%20HuggingFace-black?style=for-the-badge&logo=huggingface&logoColor=gold" alt="KSM Lab Demo Badge">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo" 
+     style="background:#0E0E12;padding:14px 24px;border:2px solid #D4AF37;color:#D4AF37;font-size:20px;border-radius:6px;text-decoration:none;font-weight:bold;display:inline-block;">
+    🔥 Launch KSM Lab Demo
+  </a>
+</p>
+
+---
+
+| **Deployment Labs**<br>🧪 *Lab Patch: Operational*<br>**Mission:** Live-fire AI testing & automation trials.<br>**Signature Unit:** KSM — Keyword Sniper Mistress<br>🎯 *Acquire target → Confirm signal → FIRE.* |
+|------------------------------|
+| 🔗 **[KSM Lab Demo →](https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo)** |
+| ✅ Demo Operational |
 
 **Train. Build. Lead.**  
 Ethics • Governance • Deployment
 
 > Powered by Flame Division Command — Establishing the next generation of AI leadership.
 
+---
+
 ## 🧩 Operative Navigation — Mission Access
 
 | Program | Status | Access |
 |--------|:-----:|:------:|
-| **CAIP — AI Implementation Professional**<br>🟣 *CAIP Badge: Verified*<br>**Mission:** Deploy AI systems safely into operations. | ✅ Live | 🔗 [Enter Program →](Programs/01_CAIP/README.md) |
-| **CAIO — Chief AI Officer Track**<br>🟡 *CAIO Badge: Pending*<br>**Mission:** Command AI governance at the executive level. | ⏳ Launching Soon | — |
-| **Ethics Command Core**<br>⚖️ *Ethical Authority Clearance*<br>**Mission:** Enforce Responsible AI principles & compliance. | 🛠️ In Development | — |
-| **Deployment Labs**<br>🧪 *Lab Patch: Operational*<br>**Mission:** Live-fire AI testing and automation trials. | ✅ Demo Operational | 🔗 [KSM Lab Demo →](Programs/01_CAIP/Keyword-Sniper-Mistress-KSM/Labs/KSM-Demo) |
+| **CAIP — AI Implementation Professional**<br>🟣 *CAIP Badge: Verified* | ✅ Live | 🔗 [Enter Program →](Programs/01_CAIP/README.md) |
+| **CAIO — Chief AI Officer Track**<br>🟡 *CAIO Badge: Pending* | ⏳ Launching Soon | — |
+| **Ethics Command Core**<br>⚖️ *Ethical Authority Clearance* | 🛠️ In Development | — |
+| **Deployment Labs**<br>🧪 *Operational* | ✅ Demo Live | 🔗 **[KSM Lab Demo →](https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo)** |
 
-> 🔐 Access Levels escalate as mission proficiency increases.  
-> Commands are issued only to operators who can execute responsibly.
->
-> # 🔥 Flame Division Academy — Command Authority
+---
 
-**Command: Verified** ✅ · **Deployments: Live** · **Legal & Security: Hardened**
+# 🔥 Flame Division Academy — Command Authority
+
+**Command: Verified** · **Deployments: Live** · **Legal: Secured**
 
 ## Authority Lineup
-- 🦁 **Certified Chief AI Officer (CAIO)** — Executive AI Strategy & Governance  
-- ⚙️ **Certified AI Implementation Professional (CAIIP)** — Secure AI Deployments  
-- ⚖️ **Legal Tech & AI for Lawyers** — AI + Legal Tech Integration  
-- 🎥 **AI Video / Production (Veo3 / Sora)** — Media Automation & MLOps  
-- 🧠 **AI Engineer / Data Structures & Algorithms** — Systems & Performance
-- ➕ **[+16 more certifications — full list below]**
+- 🦁 Certified Chief AI Officer (CAIO)  
+- ⚙️ Certified AI Implementation Professional (CAIIP)  
+- ⚖️ AI + Legal Tech  
+- 🎥 AI Video / MLOps  
+- 🧠 AI Engineering  
+- ➕ +16 more credentials  
 
 ---
 
-**Motto:** *“AI is infrastructure. We build, govern, and protect it.”*  
-**Contact:** `andrew@flamedivision.example` — or link to your LinkedIn
-
----
----
-
-## 📡 Operative Navigation — Mission Begins Now
-
-Follow command structure — select your mission:
-
-1️⃣ [Start Your First Mission](/Start-Here/README.md)  
-Launch immediately with beginner-friendly drills.
-
-2️⃣ [CAIIP Program — Build Tools & Automations](/Programs/01_CAIP)  
-Create real automations and deploy workflow value.
-
-3️⃣ [CAIO Program — Lead, Govern & Decide](/Programs/02_CAIO)  
-Executive judgment protocols for AI leadership.
-
-4️⃣ ⭐ Honor Trials *(coming soon)*  
-Compete for rank, badges, and command recognition.
+**Motto:** *“AI is infrastructure. We build, govern, and protect it.”*
 
 ---
 
-## 🧰 Official Automation System — HighLevel
+## 📡 Mission Flow
 
-Build client-grade workflows, CRMs, funnels, automations & AI agent systems.
-
-### Tool Arsenal — Choose Your Deployment Path
-- 🚀 **Starter Mission System**  
-https://www.gohighlevel.com/970?fp_ref=4cabs
-
-- 🧱 **Annual Automation Command**  
-https://gohighlevel.com/annual?fp_ref=4cabs
-
-- 🧠 **Leadership Pro Trial**  
-https://www.gohighlevel.com/protrial?fp_ref=4cabs
-
-- 🎯 **Bootcamp Expansion**  
-https://www.gohighlevel.com/highlevel-bootcamp?fp_ref=4cabs
-
-- 🤖 **AI Weapon System — Voice + Agents**  
-https://www.gohighlevel.com/ai?fp_ref=4cabs
-
-- 🏦 **SaaS-Preneur Workshop**  
-http://gohighlevel.com/saaspreneur-workshop?fp_ref=4cabs
-
-✅ Supporting Flame Division Academy costs you nothing extra.  
-✅ Required across multiple missions for certification completion.
+1️⃣ Start Your First Mission → `/Start-Here/README.md`  
+2️⃣ Build Automations (CAIIP) → `/Programs/01_CAIP`  
+3️⃣ Command Strategy (CAIO) → `/Programs/02_CAIO`  
+4️⃣ Honor Trials → *coming soon*
 
 ---
 
-## 🎓 Dual Certification Command Path
+# 🧰 Official Automation System — HighLevel
 
-Your advancement follows a structured intelligence pipeline:
-
-**Level 1 — CAIIP Operator**  
-🛠️ Build real automations & workflow value  
-Outcome → *You get systems working.*
-
-**Level 2 — CAIO Executive**  
-📊 Strategy, governance & responsible AI deployment  
-Outcome → *You decide how AI is used.*
-
-Protocol:  
-Start CAIIP → build confidence & portfolio → unlock CAIO promotion.
+- 🚀 Starter Mission → https://www.gohighlevel.com/970?fp_ref=4cabs  
+- 🧱 Annual Command → https://gohighlevel.com/annual?fp_ref=4cabs  
+- 🧠 Leadership Trial → https://www.gohighlevel.com/protrial?fp_ref=4cabs  
+- 🔥 AI Agents System → https://www.gohighlevel.com/ai?fp_ref=4cabs  
 
 ---
 
-## 🧠 How You’ll Learn
+# 🎓 Dual Certification Pipeline
 
-- Short, practical missions — no fluff ✅  
-- Real business scenarios used in the field ✅  
-- Templates & checklists ready for deployment ✅  
-- Self-paced: phone, tablet or command deck ✅  
+### **Level 1 — CAIIP Operator**  
+Systems • Automations • Real Deployments  
 
-We keep it empowering — never overwhelming.
-
----
-
-## 🎯 Mission
-
-Put ethical AI power into everyday hands.  
-Responsibility at the center. Execution at the core.
-
-**Seal (in progress):** Command Verified under Flame Division  
-**License:** MIT
+### **Level 2 — CAIO Executive**  
+Governance • Strategy • Responsible AI  
 
 ---
 
-## 🛡️ Join the Academy
-
-✅ Request Access → **flamedivision.academy@proton.me**  
-✅ LinkedIn → https://www.linkedin.com/in/andrew-davis-828883126/  
-✅ GitHub Portfolio (auto-linked at top)
-
-> Training the next generation of **Certified AI Officers** —  
-grounded in Ethics • Governance • Deployment discipline.
+# 🧠 Learning Framework
+- Mission-based  
+- Real-world scenarios  
+- Templates  
+- Mobile-ready  
 
 ---
 
-## 🛡️ Legal Protection & Intellectual Property Rights
+# 🎯 Mission Directive
 
-All original content within the Flame Division Academy — including documentation,
-images, legal frameworks, training modules, automation scripts, system designs,
-and the Flame Law governance doctrine — is the exclusive intellectual property of
-Andrew Davis (Commander Flame).
+Deliver ethical AI power into real operations.  
+Execution with conscience. Governance with precision.
 
-Unauthorized reproduction, redistribution, or commercial use is strictly prohibited.
+---
 
-Legal Frameworks Enforced:
-- ✅ Copyright Protection (Global)
-- ✅ Digital Millennium Copyright Act (DMCA)
-- ✅ Trade Secret Safeguards
-- ✅ AI System Outputs Chain-of-Authorship Verified
+# 🛡️ Join the Academy
 
-Monitoring System:
-Flame Division deploys automated search logs and watermark identifiers within
-documents & assets. Any unauthorized usage triggers:
-1) Cease & Desist notification
-2) Full DMCA takedown requests
-3) Damages claim for commercialization
+📧 `flamedivision.academy@proton.me`  
+🔗 LinkedIn → https://www.linkedin.com/in/andrew-davis-828883126/  
+🗂️ GitHub Portfolio (auto-linked above)
 
-**Ethical Clause**
-AI is deployed for empowerment — never exploitation.
-If you want to collaborate or license Flame Law material,
-contact the Founder directly: [(https://www.linkedin.com/in/andrew-davis-828883126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)]
+---
+
+# 🛡️ Legal Protection & IP Rights
+
+All original Flame Division Academy content is protected under:  
+- Copyright  
+- DMCA  
+- Trade Secret Law  
+- Chain-of-Authorship Verification  
+
+Unauthorized reuse triggers enforced action.  
+For licensing/collaboration: message the Founder on LinkedIn.
 
 © 2025 · Flame Division Academy · All Rights Reserved
