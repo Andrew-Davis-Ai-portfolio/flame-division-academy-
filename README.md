@@ -14,13 +14,6 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://huggingface.co/spaces/PFlame999/KSM-Lab-Demo" target="_blank">
-    <img src="https://img.shields.io/badge/LAUNCH%20DEMO-FLAME%20DIVISION%20KSM-black?style=for-the-badge&logo=huggingface&logoColor=D4AF37" />
-  </a>
-</p>
-
----
 
 # 🔥 Flame Division Academy
 
