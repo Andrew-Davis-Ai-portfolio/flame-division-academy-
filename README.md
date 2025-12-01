@@ -328,28 +328,90 @@ Ethics • Governance • Deployment
 
 ---
 
-## 📡 Mission Flow
+### 📡 Mission Flow
 
-1️⃣ **Start Your First Mission**  
-→ `/Start-Here/README.md`  
-Foundational orientation. System context. Operator expectations.
+This academy is a **live-command system**, not a course checklist.  
+Each mission corresponds to **real deployments, verified artifacts, and operational authority**.
 
-2️⃣ **Build Automations (CAIIP)** ✅ **COMPLETED**  
-→ `/Programs/01_CAIP`  
-Hands-on execution across automation, workflows, deployment, and validation.  
-All Missions (1–5) completed and verified.
+### 1️⃣ Initiation — Operator Readiness
+➡️ `/Start-Here/README.md`
 
-3️⃣ **Command Strategy (CAIO)** ✅ **ACTIVE**  
-→ `/Programs/02_CAIO`  
-Strategic governance, systems oversight, risk control, and executive command frameworks.
+- Confirms workspace readiness
+- Validates tooling, repos, and execution capability
+- Establishes Operator status (not student)
 
-4️⃣ **Honor Trials** ✅ **UNLOCKED**  
-Field-proven demonstrations of judgment, restraint, and decision authority.  
-Completion required for senior certification pathways.
+✅ **Status:** Complete
 
-5️⃣ **PB-0: Oracle Track** ⏳ **DEFERRED (Intentional)**  
-Advanced doctrine, philosophy, and long-horizon synthesis.  
-This track matures over time and is **not rushed** by design.
+---
+
+### 2️⃣ Mission Track I — CAIIP (Implementation & Automation)
+➡️ `/Programs/01_CAIP`
+
+Focus:
+- Automation engineering
+- n8n workflows
+- API agents
+- CI/CD pipelines
+- Real deployments with proof
+
+Artifacts:
+- Mission 01–05 proof folders
+- Live repos
+- Execution screenshots
+- Public GitHub verification
+
+✅ **Status:** Complete
+
+---
+
+### 3️⃣ Mission Track II — CAIO (Strategy, Governance & Command)
+➡️ `/Programs/02_CAIO`
+
+Focus:
+- AI governance & ethics
+- Risk evaluation
+- Architecture decisions
+- Executive-level system approval logic
+
+Artifacts:
+- Governance frameworks
+- Command doctrines
+- System-level decision documentation
+
+✅ **Status:** Active & Verified
+
+---
+
+### 4️⃣ Advanced Trials — Honor Missions
+➡️ _Unlocked via signal_
+
+These trials are **not time-based** and **not public by default**.
+
+Includes:
+- Live command stations (KSM)
+- Kubernetes security & monitoring
+- CI/CD governance
+- Observability (Prometheus / Grafana)
+- Production-grade infrastructure patterns
+
+🕓 **Status:** Gated (unlock via remote signal)
+
+---
+
+### 5️⃣ Command Layer — KSM Platform
+➡️ `flame-ksm-platform` (Private)
+
+Role:
+- Central command station
+- Rehearsal ground for production deployment
+- Infrastructure governance lab
+
+Status:
+- Private
+- Signal-gated
+- Activated post-verification
+
+🛑 **Not a demo. Not a tutorial.**
 ---
 
 # 🧰 Official Automation System — HighLevel
