@@ -330,11 +330,26 @@ Ethics • Governance • Deployment
 
 ## 📡 Mission Flow
 
-1️⃣ Start Your First Mission → `/Start-Here/README.md`  
-2️⃣ Build Automations (CAIIP) → `/Programs/01_CAIP`  
-3️⃣ Command Strategy (CAIO) → `/Programs/02_CAIO`  
-4️⃣ Honor Trials → *coming soon*
+1️⃣ **Start Your First Mission**  
+→ `/Start-Here/README.md`  
+Foundational orientation. System context. Operator expectations.
 
+2️⃣ **Build Automations (CAIIP)** ✅ **COMPLETED**  
+→ `/Programs/01_CAIP`  
+Hands-on execution across automation, workflows, deployment, and validation.  
+All Missions (1–5) completed and verified.
+
+3️⃣ **Command Strategy (CAIO)** ✅ **ACTIVE**  
+→ `/Programs/02_CAIO`  
+Strategic governance, systems oversight, risk control, and executive command frameworks.
+
+4️⃣ **Honor Trials** ✅ **UNLOCKED**  
+Field-proven demonstrations of judgment, restraint, and decision authority.  
+Completion required for senior certification pathways.
+
+5️⃣ **PB-0: Oracle Track** ⏳ **DEFERRED (Intentional)**  
+Advanced doctrine, philosophy, and long-horizon synthesis.  
+This track matures over time and is **not rushed** by design.
 ---
 
 # 🧰 Official Automation System — HighLevel
