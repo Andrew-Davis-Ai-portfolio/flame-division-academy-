@@ -328,57 +328,79 @@ Ethics • Governance • Deployment
 
 ---
 
-### 📡 Mission Flow
+## 📡 Mission Flow
 
-This academy is a **live-command system**, not a course checklist.  
-Each mission corresponds to **real deployments, verified artifacts, and operational authority**.
+This Academy operates on **confirmed execution**, not theory. Each mission represents a verified operational capability.
 
-### 1️⃣ Initiation — Operator Readiness
-➡️ `/Start-Here/README.md`
+### ✅ Mission Path
 
-- Confirms workspace readiness
-- Validates tooling, repos, and execution capability
-- Establishes Operator status (not student)
+#### ① Start Here — Operator Alignment  
+**Path:** `/Start-Here/README.md`  
+Establishes mindset, ethics, scope, and operational rules of engagement.  
+✅ **Status:** Complete
+
+---
+
+#### ② Build Automations — CAIIP Track  
+**Path:** `/Programs/01_CAIP`  
+Hands-on deployment of AI automation systems:
+- Workflow engineering
+- Secure integrations
+- Execution proofs
+
+✅ **Status:** Complete (Missions 1–5 Confirmed)
+
+---
+
+#### ③ Command Strategy — CAIO Track  
+**Path:** `/Programs/02_CAIO`  
+System-level leadership covering:
+- Governance
+- Risk control
+- Enterprise decision frameworks
 
 ✅ **Status:** Complete
 
 ---
 
-### 2️⃣ Mission Track I — CAIIP (Implementation & Automation)
-➡️ `/Programs/01_CAIP`
+#### ④ Honor Trials — Field Validation  
+**Purpose:** Stress-testing judgment under ambiguity  
+**Format:** Case-based command simulations  
 
-Focus:
-- Automation engineering
-- n8n workflows
-- API agents
-- CI/CD pipelines
-- Real deployments with proof
-
-Artifacts:
-- Mission 01–05 proof folders
-- Live repos
-- Execution screenshots
-- Public GitHub verification
-
-✅ **Status:** Complete
+✅ **Status:** Completed & Embedded
 
 ---
 
-### 3️⃣ Mission Track II — CAIO (Strategy, Governance & Command)
-➡️ `/Programs/02_CAIO`
+#### ⑤ Signal Relay — Live Visibility  
+**Purpose:** Public-facing proof of readiness  
+- GitHub execution
+- Portfolio deployment
+- Recruiter-facing artifacts
 
-Focus:
-- AI governance & ethics
-- Risk evaluation
-- Architecture decisions
-- Executive-level system approval logic
+✅ **Status:** Active
 
-Artifacts:
-- Governance frameworks
-- Command doctrines
-- System-level decision documentation
+---
 
-✅ **Status:** Active & Verified
+### 🛰 PB-0 — The Oracle (Dormant)
+
+**Status:** 🔒 Strategic Hold  
+PB-0 is **not rushed** and remains sealed until:
+- External signal validation is clean
+- Remote activation criteria is met
+
+This module represents **long-arc command intelligence** and will activate on its own timeline.
+
+---
+
+### ✅ Academy Status
+
+**Flame Division Academy:**  
+🟢 Fully Operational  
+🟢 Mission-Critical Systems Live  
+🟢 Deployment-Ready  
+🟢 No Simulation Debt
+
+> *“This is not a course. It’s a command record.”*
 
 ---
 
